@@ -1,0 +1,1 @@
+This is Honzi first git project!
